@@ -1,0 +1,10 @@
+# *******************************************************
+# Date Created   : 01 June, 2019
+# Author         : :P
+# *******************************************************
+
+# Setting the Work Environment Variable
+export WORK_HOME="$PWD/../"
+export UVM_PATH="/home/EDA/mentor/questasim/uvm-1.1d/"
+export IP_AMBA_APB_MASTER_HOME="/home/padmakar/WORKSPACE/workspace_apb/ip_amba_apb/master"
+export IP_AMBA_APB_SLAVE_HOME="/home/padmakar/WORKSPACE/workspace_apb/ip_amba_apb/slave"

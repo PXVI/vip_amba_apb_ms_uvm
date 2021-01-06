@@ -1,0 +1,49 @@
+// *******************************************************
+// Date Created   : 29 May, 2019
+// Author         : :P
+// *******************************************************
+
+// Make Sure You Have Set The $WORK_HOME Path to the VIP
+
+// Compile List
+
+// These Define decides if the BFMs will take their local includes or the TB COMMON INCLUDES
++define+COMMON_TB_DEFINES_PARAMS
++define+DUT_VIP
+
+// If the UVM Path Can't be given directly
++incdir+$WORK_HOME/sim_run/uvm_files/
+// else
++incdir+$UVM_PATH/
+
++incdir+$WORK_HOME/sim_run/vip_pkg/
++incdir+$WORK_HOME/common/include/ +incdir+$WORK_HOME/common/ 
++incdir+$WORK_HOME/bfm/master_bfm/include/ +incdir+$WORK_HOME/bfm/master_bfm/
++incdir+$WORK_HOME/bfm/slave_bfm/include/ +incdir+$WORK_HOME/bfm/slave_bfm/
++incdir+$WORK_HOME/env/master/include/ +incdir+$WORK_HOME/env/master/
++incdir+$WORK_HOME/env/slave/include/ +incdir+$WORK_HOME/env/slave/
++incdir+$WORK_HOME/env/monitor/include/ +incdir+$WORK_HOME/env/monitor/
++incdir+$WORK_HOME/env/scoreboard/include/ +incdir+$WORK_HOME/env/scoreboard/
++incdir+$WORK_HOME/seq/ +incdir+$WORK_HOME/seq/seq_list/
++incdir+$WORK_HOME/test/ +incdir+$WORK_HOME/test/test_list/
++incdir+$WORK_HOME/env/environment/ +incdir+$WORK_HOME/env/environtment/include/
++incdir+$WORK_HOME/sim_run/dut_integration_top/include/ +incdir+$WORK_HOME/sim_run/dut_integration_top/
++incdir+$WORK_HOME/sim_run/tb_top/
+
+// --------------------
+// VIP Specific Defines
+// --------------------
+//+define+VIP_MASTER_DEBUG
+//+define+VIP_SEQUENCE_DEBUG
+//+define+VIP_TEST_DEBUG
+//+define+VIP_MONITOR_DEBUG
+// Monitor Can Also be Called A Checker
+
+// ---------------------
+// User Specific Defines
+// ---------------------
+
+// --------
+// DUT Path
+// --------
++incdir+$IP_AMBA_APB_MASTER_HOME/common/ +incdir+$IP_AMBA_APB_MASTER_HOME/top/

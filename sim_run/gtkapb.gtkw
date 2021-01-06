@@ -1,0 +1,98 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Tue Jan 14 04:59:39 2020
+[*]
+[dumpfile] "/home/padmakar/WORKSPACE/workspace_apb/vip_amba_apb/sim_run/apb_dump.vcd"
+[dumpfile_mtime] "Tue Jan 14 04:59:08 2020"
+[dumpfile_size] 824814
+[savefile] "/home/padmakar/WORKSPACE/workspace_apb/vip_amba_apb/sim_run/gtkapb.gtkw"
+[timestart] 0
+[size] 1920 1025
+[pos] -1 -1
+*-8.047077 660 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] integration_top.
+[treeopen] integration_top.vip_tb_inst.
+[treeopen] integration_top.vip_tb_inst.genblk2.
+[sst_width] 345
+[signals_width] 342
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@200
+-Application Layer Signals
+@28
+integration_top.vip_tb_inst.from_cpu_rd_wr
+integration_top.vip_tb_inst.from_cpu_resetn
+integration_top.vip_tb_inst.from_cpu_slave_sel
+integration_top.vip_tb_inst.apb_ready_for_txn
+integration_top.vip_tb_inst.from_cpu_valid_txn
+@22
+#{integration_top.vip_tb_inst.from_cpu_address[31:0]} integration_top.vip_tb_inst.from_cpu_address[31] integration_top.vip_tb_inst.from_cpu_address[30] integration_top.vip_tb_inst.from_cpu_address[29] integration_top.vip_tb_inst.from_cpu_address[28] integration_top.vip_tb_inst.from_cpu_address[27] integration_top.vip_tb_inst.from_cpu_address[26] integration_top.vip_tb_inst.from_cpu_address[25] integration_top.vip_tb_inst.from_cpu_address[24] integration_top.vip_tb_inst.from_cpu_address[23] integration_top.vip_tb_inst.from_cpu_address[22] integration_top.vip_tb_inst.from_cpu_address[21] integration_top.vip_tb_inst.from_cpu_address[20] integration_top.vip_tb_inst.from_cpu_address[19] integration_top.vip_tb_inst.from_cpu_address[18] integration_top.vip_tb_inst.from_cpu_address[17] integration_top.vip_tb_inst.from_cpu_address[16] integration_top.vip_tb_inst.from_cpu_address[15] integration_top.vip_tb_inst.from_cpu_address[14] integration_top.vip_tb_inst.from_cpu_address[13] integration_top.vip_tb_inst.from_cpu_address[12] integration_top.vip_tb_inst.from_cpu_address[11] integration_top.vip_tb_inst.from_cpu_address[10] integration_top.vip_tb_inst.from_cpu_address[9] integration_top.vip_tb_inst.from_cpu_address[8] integration_top.vip_tb_inst.from_cpu_address[7] integration_top.vip_tb_inst.from_cpu_address[6] integration_top.vip_tb_inst.from_cpu_address[5] integration_top.vip_tb_inst.from_cpu_address[4] integration_top.vip_tb_inst.from_cpu_address[3] integration_top.vip_tb_inst.from_cpu_address[2] integration_top.vip_tb_inst.from_cpu_address[1] integration_top.vip_tb_inst.from_cpu_address[0]
+@28
+#{integration_top.vip_tb_inst.from_cpu_wr_STRB[3:0]} integration_top.vip_tb_inst.from_cpu_wr_STRB[3] integration_top.vip_tb_inst.from_cpu_wr_STRB[2] integration_top.vip_tb_inst.from_cpu_wr_STRB[1] integration_top.vip_tb_inst.from_cpu_wr_STRB[0]
+@22
+#{integration_top.vip_tb_inst.from_cpu_wr_WDATA[31:0]} integration_top.vip_tb_inst.from_cpu_wr_WDATA[31] integration_top.vip_tb_inst.from_cpu_wr_WDATA[30] integration_top.vip_tb_inst.from_cpu_wr_WDATA[29] integration_top.vip_tb_inst.from_cpu_wr_WDATA[28] integration_top.vip_tb_inst.from_cpu_wr_WDATA[27] integration_top.vip_tb_inst.from_cpu_wr_WDATA[26] integration_top.vip_tb_inst.from_cpu_wr_WDATA[25] integration_top.vip_tb_inst.from_cpu_wr_WDATA[24] integration_top.vip_tb_inst.from_cpu_wr_WDATA[23] integration_top.vip_tb_inst.from_cpu_wr_WDATA[22] integration_top.vip_tb_inst.from_cpu_wr_WDATA[21] integration_top.vip_tb_inst.from_cpu_wr_WDATA[20] integration_top.vip_tb_inst.from_cpu_wr_WDATA[19] integration_top.vip_tb_inst.from_cpu_wr_WDATA[18] integration_top.vip_tb_inst.from_cpu_wr_WDATA[17] integration_top.vip_tb_inst.from_cpu_wr_WDATA[16] integration_top.vip_tb_inst.from_cpu_wr_WDATA[15] integration_top.vip_tb_inst.from_cpu_wr_WDATA[14] integration_top.vip_tb_inst.from_cpu_wr_WDATA[13] integration_top.vip_tb_inst.from_cpu_wr_WDATA[12] integration_top.vip_tb_inst.from_cpu_wr_WDATA[11] integration_top.vip_tb_inst.from_cpu_wr_WDATA[10] integration_top.vip_tb_inst.from_cpu_wr_WDATA[9] integration_top.vip_tb_inst.from_cpu_wr_WDATA[8] integration_top.vip_tb_inst.from_cpu_wr_WDATA[7] integration_top.vip_tb_inst.from_cpu_wr_WDATA[6] integration_top.vip_tb_inst.from_cpu_wr_WDATA[5] integration_top.vip_tb_inst.from_cpu_wr_WDATA[4] integration_top.vip_tb_inst.from_cpu_wr_WDATA[3] integration_top.vip_tb_inst.from_cpu_wr_WDATA[2] integration_top.vip_tb_inst.from_cpu_wr_WDATA[1] integration_top.vip_tb_inst.from_cpu_wr_WDATA[0]
+#{integration_top.vip_tb_inst.to_cpu_RDATA[31:0]} integration_top.vip_tb_inst.to_cpu_RDATA[31] integration_top.vip_tb_inst.to_cpu_RDATA[30] integration_top.vip_tb_inst.to_cpu_RDATA[29] integration_top.vip_tb_inst.to_cpu_RDATA[28] integration_top.vip_tb_inst.to_cpu_RDATA[27] integration_top.vip_tb_inst.to_cpu_RDATA[26] integration_top.vip_tb_inst.to_cpu_RDATA[25] integration_top.vip_tb_inst.to_cpu_RDATA[24] integration_top.vip_tb_inst.to_cpu_RDATA[23] integration_top.vip_tb_inst.to_cpu_RDATA[22] integration_top.vip_tb_inst.to_cpu_RDATA[21] integration_top.vip_tb_inst.to_cpu_RDATA[20] integration_top.vip_tb_inst.to_cpu_RDATA[19] integration_top.vip_tb_inst.to_cpu_RDATA[18] integration_top.vip_tb_inst.to_cpu_RDATA[17] integration_top.vip_tb_inst.to_cpu_RDATA[16] integration_top.vip_tb_inst.to_cpu_RDATA[15] integration_top.vip_tb_inst.to_cpu_RDATA[14] integration_top.vip_tb_inst.to_cpu_RDATA[13] integration_top.vip_tb_inst.to_cpu_RDATA[12] integration_top.vip_tb_inst.to_cpu_RDATA[11] integration_top.vip_tb_inst.to_cpu_RDATA[10] integration_top.vip_tb_inst.to_cpu_RDATA[9] integration_top.vip_tb_inst.to_cpu_RDATA[8] integration_top.vip_tb_inst.to_cpu_RDATA[7] integration_top.vip_tb_inst.to_cpu_RDATA[6] integration_top.vip_tb_inst.to_cpu_RDATA[5] integration_top.vip_tb_inst.to_cpu_RDATA[4] integration_top.vip_tb_inst.to_cpu_RDATA[3] integration_top.vip_tb_inst.to_cpu_RDATA[2] integration_top.vip_tb_inst.to_cpu_RDATA[1] integration_top.vip_tb_inst.to_cpu_RDATA[0]
+@28
+integration_top.vip_tb_inst.to_cpu_txn_err
+@200
+-APB Protocol Interface
+@28
+integration_top.vip_tb_inst.PRESETn
+integration_top.vip_tb_inst.PCLK
+@22
+#{integration_top.vip_tb_inst.PADDR[31:0]} integration_top.vip_tb_inst.PADDR[31] integration_top.vip_tb_inst.PADDR[30] integration_top.vip_tb_inst.PADDR[29] integration_top.vip_tb_inst.PADDR[28] integration_top.vip_tb_inst.PADDR[27] integration_top.vip_tb_inst.PADDR[26] integration_top.vip_tb_inst.PADDR[25] integration_top.vip_tb_inst.PADDR[24] integration_top.vip_tb_inst.PADDR[23] integration_top.vip_tb_inst.PADDR[22] integration_top.vip_tb_inst.PADDR[21] integration_top.vip_tb_inst.PADDR[20] integration_top.vip_tb_inst.PADDR[19] integration_top.vip_tb_inst.PADDR[18] integration_top.vip_tb_inst.PADDR[17] integration_top.vip_tb_inst.PADDR[16] integration_top.vip_tb_inst.PADDR[15] integration_top.vip_tb_inst.PADDR[14] integration_top.vip_tb_inst.PADDR[13] integration_top.vip_tb_inst.PADDR[12] integration_top.vip_tb_inst.PADDR[11] integration_top.vip_tb_inst.PADDR[10] integration_top.vip_tb_inst.PADDR[9] integration_top.vip_tb_inst.PADDR[8] integration_top.vip_tb_inst.PADDR[7] integration_top.vip_tb_inst.PADDR[6] integration_top.vip_tb_inst.PADDR[5] integration_top.vip_tb_inst.PADDR[4] integration_top.vip_tb_inst.PADDR[3] integration_top.vip_tb_inst.PADDR[2] integration_top.vip_tb_inst.PADDR[1] integration_top.vip_tb_inst.PADDR[0]
+@28
+integration_top.vip_tb_inst.PSELx
+integration_top.vip_tb_inst.PENABLE
+integration_top.vip_tb_inst.PREADY
+integration_top.vip_tb_inst.PSLVERR
+#{integration_top.vip_tb_inst.PPROT[2:0]} integration_top.vip_tb_inst.PPROT[2] integration_top.vip_tb_inst.PPROT[1] integration_top.vip_tb_inst.PPROT[0]
+@22
+#{integration_top.vip_tb_inst.PRDATA[31:0]} integration_top.vip_tb_inst.PRDATA[31] integration_top.vip_tb_inst.PRDATA[30] integration_top.vip_tb_inst.PRDATA[29] integration_top.vip_tb_inst.PRDATA[28] integration_top.vip_tb_inst.PRDATA[27] integration_top.vip_tb_inst.PRDATA[26] integration_top.vip_tb_inst.PRDATA[25] integration_top.vip_tb_inst.PRDATA[24] integration_top.vip_tb_inst.PRDATA[23] integration_top.vip_tb_inst.PRDATA[22] integration_top.vip_tb_inst.PRDATA[21] integration_top.vip_tb_inst.PRDATA[20] integration_top.vip_tb_inst.PRDATA[19] integration_top.vip_tb_inst.PRDATA[18] integration_top.vip_tb_inst.PRDATA[17] integration_top.vip_tb_inst.PRDATA[16] integration_top.vip_tb_inst.PRDATA[15] integration_top.vip_tb_inst.PRDATA[14] integration_top.vip_tb_inst.PRDATA[13] integration_top.vip_tb_inst.PRDATA[12] integration_top.vip_tb_inst.PRDATA[11] integration_top.vip_tb_inst.PRDATA[10] integration_top.vip_tb_inst.PRDATA[9] integration_top.vip_tb_inst.PRDATA[8] integration_top.vip_tb_inst.PRDATA[7] integration_top.vip_tb_inst.PRDATA[6] integration_top.vip_tb_inst.PRDATA[5] integration_top.vip_tb_inst.PRDATA[4] integration_top.vip_tb_inst.PRDATA[3] integration_top.vip_tb_inst.PRDATA[2] integration_top.vip_tb_inst.PRDATA[1] integration_top.vip_tb_inst.PRDATA[0]
+@28
+integration_top.vip_tb_inst.PWRITE
+#{integration_top.vip_tb_inst.PSTRB[3:0]} integration_top.vip_tb_inst.PSTRB[3] integration_top.vip_tb_inst.PSTRB[2] integration_top.vip_tb_inst.PSTRB[1] integration_top.vip_tb_inst.PSTRB[0]
+@c00022
+#{integration_top.vip_tb_inst.PWDATA[31:0]} integration_top.vip_tb_inst.PWDATA[31] integration_top.vip_tb_inst.PWDATA[30] integration_top.vip_tb_inst.PWDATA[29] integration_top.vip_tb_inst.PWDATA[28] integration_top.vip_tb_inst.PWDATA[27] integration_top.vip_tb_inst.PWDATA[26] integration_top.vip_tb_inst.PWDATA[25] integration_top.vip_tb_inst.PWDATA[24] integration_top.vip_tb_inst.PWDATA[23] integration_top.vip_tb_inst.PWDATA[22] integration_top.vip_tb_inst.PWDATA[21] integration_top.vip_tb_inst.PWDATA[20] integration_top.vip_tb_inst.PWDATA[19] integration_top.vip_tb_inst.PWDATA[18] integration_top.vip_tb_inst.PWDATA[17] integration_top.vip_tb_inst.PWDATA[16] integration_top.vip_tb_inst.PWDATA[15] integration_top.vip_tb_inst.PWDATA[14] integration_top.vip_tb_inst.PWDATA[13] integration_top.vip_tb_inst.PWDATA[12] integration_top.vip_tb_inst.PWDATA[11] integration_top.vip_tb_inst.PWDATA[10] integration_top.vip_tb_inst.PWDATA[9] integration_top.vip_tb_inst.PWDATA[8] integration_top.vip_tb_inst.PWDATA[7] integration_top.vip_tb_inst.PWDATA[6] integration_top.vip_tb_inst.PWDATA[5] integration_top.vip_tb_inst.PWDATA[4] integration_top.vip_tb_inst.PWDATA[3] integration_top.vip_tb_inst.PWDATA[2] integration_top.vip_tb_inst.PWDATA[1] integration_top.vip_tb_inst.PWDATA[0]
+@28
+integration_top.vip_tb_inst.PWDATA[31]
+integration_top.vip_tb_inst.PWDATA[30]
+integration_top.vip_tb_inst.PWDATA[29]
+integration_top.vip_tb_inst.PWDATA[28]
+integration_top.vip_tb_inst.PWDATA[27]
+integration_top.vip_tb_inst.PWDATA[26]
+integration_top.vip_tb_inst.PWDATA[25]
+integration_top.vip_tb_inst.PWDATA[24]
+integration_top.vip_tb_inst.PWDATA[23]
+integration_top.vip_tb_inst.PWDATA[22]
+integration_top.vip_tb_inst.PWDATA[21]
+integration_top.vip_tb_inst.PWDATA[20]
+integration_top.vip_tb_inst.PWDATA[19]
+integration_top.vip_tb_inst.PWDATA[18]
+integration_top.vip_tb_inst.PWDATA[17]
+integration_top.vip_tb_inst.PWDATA[16]
+integration_top.vip_tb_inst.PWDATA[15]
+integration_top.vip_tb_inst.PWDATA[14]
+integration_top.vip_tb_inst.PWDATA[13]
+integration_top.vip_tb_inst.PWDATA[12]
+integration_top.vip_tb_inst.PWDATA[11]
+integration_top.vip_tb_inst.PWDATA[10]
+integration_top.vip_tb_inst.PWDATA[9]
+integration_top.vip_tb_inst.PWDATA[8]
+integration_top.vip_tb_inst.PWDATA[7]
+integration_top.vip_tb_inst.PWDATA[6]
+integration_top.vip_tb_inst.PWDATA[5]
+integration_top.vip_tb_inst.PWDATA[4]
+integration_top.vip_tb_inst.PWDATA[3]
+integration_top.vip_tb_inst.PWDATA[2]
+integration_top.vip_tb_inst.PWDATA[1]
+integration_top.vip_tb_inst.PWDATA[0]
+@1401200
+-group_end
+@200
+-RTL Debug Signals
+@420
+integration_top.vip_tb_inst.VIP_MODE
+integration_top.vip_tb_inst.VIP_INST
+[pattern_trace] 1
+[pattern_trace] 0
